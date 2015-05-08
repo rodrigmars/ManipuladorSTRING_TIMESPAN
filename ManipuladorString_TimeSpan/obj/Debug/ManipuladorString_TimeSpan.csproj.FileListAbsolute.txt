@@ -1,0 +1,4 @@
+C:\GITHUB\ManipuladorString_TimeSpan\ManipuladorString_TimeSpan\bin\Debug\ManipuladorString_TimeSpan.dll
+C:\GITHUB\ManipuladorString_TimeSpan\ManipuladorString_TimeSpan\bin\Debug\ManipuladorString_TimeSpan.pdb
+C:\GITHUB\ManipuladorString_TimeSpan\ManipuladorString_TimeSpan\obj\Debug\ManipuladorString_TimeSpan.dll
+C:\GITHUB\ManipuladorString_TimeSpan\ManipuladorString_TimeSpan\obj\Debug\ManipuladorString_TimeSpan.pdb
